@@ -17,5 +17,5 @@ let calculoMedia = function(numero3,numero4,numero5){
     return (numero3 + numero4 + numero5)/3;
 }
 
-document.Write(calculoMedia(num3,num4,num5));
+document.write(calculoMedia(num3,num4,num5));
 
