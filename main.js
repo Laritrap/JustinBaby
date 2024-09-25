@@ -8,10 +8,9 @@ function areaQuadrado(valorLado){
 }
 console.log(areaQuadrado(7));
 
-let pergunta=prompt('Digite 3 valores');
-let numero3=parseInt(prompt(numero3));
-let numero4=parseInt(prompt(numero4));
-let numero5=parseInt(prompt(numero5));
+let num3=parseInt(prompt('Digite um número'));
+let num4=parseInt(prompt('Digite um número'));
+let num5=parseInt(prompt('Digite um número'));
 
 
 let calculoMedia = function(numero3,numero4,numero5){
