@@ -34,7 +34,7 @@
 // }
 let idade=234;
 if(idade>17){
-    console.log('maior que 17');
+    console.log('com vrum vrum');
 } else{
     console.log('sem vrum vrum');
 }
