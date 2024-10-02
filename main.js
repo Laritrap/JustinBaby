@@ -32,7 +32,7 @@
 //     console.log(i);
 //     console.log(estados[i]);    
 // }
-let idade=234;
+let idade=parseInt(prompt('Qual é a sua idade?'));
 if(idade>17){
     console.log('com vrum vrum');
 } else{
