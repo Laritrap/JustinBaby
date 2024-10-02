@@ -32,3 +32,9 @@
 //     console.log(i);
 //     console.log(estados[i]);    
 // }
+let idade=234;
+if(idade>17){
+    console.log('maior que 17');
+} else{
+    console.log('sem vrum vrum');
+}
